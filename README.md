@@ -7,7 +7,7 @@ Database -> Sqlite Studio
 
 Used OpenCV + contrib modules for LBPH(Local Binary Patterns Histogram) face recognizer and Haar Cascade as classifier for front face. Please chcek the file haarcascade_frontalface_default.xml for detecting front face.
 
-You can download the wheel from here: http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+You can download the wheel from here: http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv , 
 Install it using pip install, but before installing set the directory in the whl is present.
 
 The project is divided into 3 modules.

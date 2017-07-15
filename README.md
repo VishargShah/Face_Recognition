@@ -1,7 +1,7 @@
 # Face_Recognition
 Detecting the face in real time video and displaying information of the detected faces.
 
-Language -> Python3.6
+Language -> Python3.6,
 Database -> Sqlite Studio
 
 
